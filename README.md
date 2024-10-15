@@ -42,3 +42,6 @@ Once you are in the shell, you should see the default prompt switch to **linux (
 - **readCommand()**:Reads the command entered by the user
   
 ## Citations
+
+OpenAI. (2024). ChatGPT (Aug 8 version) [Large language model]. https://chat.openai.com/chat
+> Since I am not too familiar with coding in C, this was used to help with syntax so the code would run. It was also used to help explain some errors that arose when I first compiled the program in PuTTY.
